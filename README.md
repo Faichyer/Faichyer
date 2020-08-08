@@ -1,6 +1,6 @@
-### Hi there, I'm Miki - aka [Faichyer][website] 👋
+### Hello gang, I'm Miki 👋
 
-## I'm a Developer!
+## I'm a Web and Mobile Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -38,6 +38,7 @@
 
 <br />
 <br />
+
 ---
 
 ### 📕 Latest Blog Posts
