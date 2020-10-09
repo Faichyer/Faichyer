@@ -1,7 +1,7 @@
 ### Hello gang, I'm Miki 👋
 
 ## I'm a Web and Mobile Developer!
-- 🔭 I’m currently working on a Code Snippet project [website]!
+- 🔭 I’m currently working on a [Code Snippet][codesnippet] !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -54,6 +54,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
+[codesnippet]: https://github.com/Incubateur-Web/CodeSnippet
 [website]: https://mikinamsrai.com
 [twitter]: https://twitter.com/Faichyer
 [instagram]: https://instagram.com/miki.namsrai
