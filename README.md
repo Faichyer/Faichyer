@@ -1,7 +1,7 @@
 ### Hello gang, I'm Miki 👋
 
 ## I'm a Web and Mobile Developer!
-- 🔭 I’m currently working on a [Code Snippet][codesnippet] !
+- 🔭 I’m currently working on a Code Snippet [project][codesnippet] !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
