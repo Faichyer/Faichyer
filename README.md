@@ -3,8 +3,7 @@
 
 ## I'm a Web and Mobile Developer!
 - 🔭 I’m currently working on a Code Snippet [project][codesnippet] !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Contribute more to Freelance projects
 - ⚡ Fun fact: I love to play video games and meet new people
 
