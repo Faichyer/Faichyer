@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Code Snippet [project][codesnippet] !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Freelance projects
 - ⚡ Fun fact: I love to play video games and meet new people
 
 ### Connect with me:
