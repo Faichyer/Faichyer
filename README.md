@@ -41,6 +41,6 @@
 <br />
 
 [codesnippet]: https://github.com/Incubateur-Web/CodeSnippet
-[website]: https://mikinamsrai.com
+[website]: https://mikinam.com
 [instagram]: https://instagram.com/miki_namsrai
 [linkedin]: https://linkedin.com/in/mikinamsrai
