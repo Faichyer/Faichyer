@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />][instagram]
 
 <br />
 
@@ -40,14 +40,8 @@
 <br />
 <br />
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Faichyer&show_icons=true&theme=default">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Faichyer&show_icons=true&theme=default" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Faichyer&&theme=default">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Faichyer&hide=blade&theme=default" />
-</a>
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=Faichyer)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Faichyer&layout=compact)
 
 [codesnippet]: https://github.com/Incubateur-Web/CodeSnippet
 [website]: https://mikinam.com
