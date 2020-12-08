@@ -40,6 +40,15 @@
 <br />
 <br />
 
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Faichyer&show_icons=true&theme=default">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Faichyer&show_icons=true&theme=default" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Faichyer&&theme=default">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Faichyer&hide=blade&theme=default" />
+</a>
+</div>
+
 [codesnippet]: https://github.com/Incubateur-Web/CodeSnippet
 [website]: https://mikinam.com
 [instagram]: https://instagram.com/miki_namsrai
