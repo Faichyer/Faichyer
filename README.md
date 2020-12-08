@@ -41,7 +41,7 @@
 <br />
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Faichyer)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Faichyer&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Faichyer&langs_count=6&hide=css&layout=compact)
 
 [codesnippet]: https://github.com/Incubateur-Web/CodeSnippet
 [website]: https://mikinam.com
