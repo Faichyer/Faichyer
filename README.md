@@ -22,8 +22,8 @@ I'm an **IT Student🎓 [@ Ynov Campus Lyon](https://www.ynov.com/campus/lyon/)*
 <br />
 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Faichyer)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Faichyer&langs_count=8&hide=css,c%2B%2B&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Faichyer&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Faichyer&langs_count=8&hide=css,c%2B%2B&layout=compact&theme=tokyonight)
 
 
 
