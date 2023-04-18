@@ -8,8 +8,6 @@ I'm a developer and passionated about learning and working with new techs. Also,
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Faichyer/)](https://github.com/Faichyer/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikinamsrai/)](https://www.linkedin.com/in/mikinamsrai)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miki.namsrai@gmail.com)](mailto:miki.namsrai@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/miki.nsi/)](https://www.instagram.com/miki.nsi/)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-9cf?style=flat-square&logo=react&logoColor=white&link=https://www.mikinam.com/)](https://www.mikinam.com/)
 
 
 ### Tools:
