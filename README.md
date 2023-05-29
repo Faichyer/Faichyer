@@ -2,7 +2,7 @@
 ### Sup! I'm Miki 👋
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a developer and passionated about learning and working with new techs. Also, I love to build interesting and amazing projects whether alone or not. <br/><br/>
+I'm a developer and passionated about learning and working with new techs. Also, I love building interesting and amazing projects (sometimes very silly)<br/><br/>
 
 #### 📬 Find me on
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Faichyer/)](https://github.com/Faichyer/) 
