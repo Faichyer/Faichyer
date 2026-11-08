@@ -1,31 +1,39 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="MIKI NAMSRAI: developer character sheet poster with Capri teleporting across it" width="100%" />
+</p>
 
-### Sup! I'm Miki 👋
+<p align="center">
+  <a href="https://mikinam.com"><img src="https://img.shields.io/badge/WEBSITE-ff2a6d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/mikinamsrai"><img src="https://img.shields.io/badge/LINKEDIN-0d0e14?style=for-the-badge&logo=linkedin&logoColor=05ffa1" alt="LinkedIn" /></a>
+  <a href="mailto:miki.namsrai@gmail.com"><img src="https://img.shields.io/badge/MAIL-0d0e14?style=for-the-badge&logo=gmail&logoColor=05ffa1" alt="Email" /></a>
+  <a href="https://instagram.com/miki_namsrai"><img src="https://img.shields.io/badge/INSTAGRAM-0d0e14?style=for-the-badge&logo=instagram&logoColor=05ffa1" alt="Instagram" /></a>
+</p>
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a developer and passionated about learning and working with new techs. Also, I love building interesting and amazing projects (sometimes very silly)<br/><br/>
+<!-- stats.svg, contrib.svg and vitals.svg are rebuilt every 6 hours by .github/workflows/profile-cards.yml -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Faichyer/Faichyer/output/stats.svg" width="100%" alt="Runner profile: contributions in the last year, streaks, active days" />
+</p>
 
-#### 📬 Find me on
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Faichyer/)](https://github.com/Faichyer/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikinamsrai/)](https://www.linkedin.com/in/mikinamsrai)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miki.namsrai@gmail.com)](mailto:miki.namsrai@gmail.com)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Faichyer/Faichyer/output/contrib.svg" width="100%" alt="Contribution grid for the last year" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Faichyer/Faichyer/output/vitals.svg" width="100%" alt="Vitals monitor: an EKG trace of my contributions per week over the last year, with the weekly average and streak" />
+</p>
 
-### Tools:
+<p align="center">
+  <img src="./assets/neural.svg" width="100%" alt="My stacks, as a neural map. Web: TypeScript, React, Next.js, Tailwind, Node.js. Mobile, data and AI: Flutter, Dart, Supabase, Firebase, AI agents." />
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<p align="center">
+  <img src="./assets/id.svg" width="100%" alt="Runner ID card for Namsrai, Miki “Faichyer”. Class: developer (web, mobile, AI). Level: 10+ years, spawned 2016 with Pong in C#, never logged off. Main build: Next.js, Flutter, Supabase. Companion: Capri. Special move: building interesting, amazing and very silly projects." />
+</p>
 
-<br />
-<br />
+<p align="center">
+  <img src="./assets/quests.svg" width="100%" alt="Quest journal, 2 active jobs. Nomyn: build the study companion every student wishes they had (Next.js, Supabase, Flutter). Yalna: make keeping a trading journal feel like a game (Next.js, React 19, Tailwind)." />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Faichyer&theme=tokyonight&hide_border=true)
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Faichyer&langs_count=8&hide=css,c%2B%2B&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
-[codesnippet]: https://github.com/Incubateur-Web/CodeSnippet
-[website]: https://mikinam.com
-[instagram]: https://instagram.com/miki_namsrai
-[linkedin]: https://linkedin.com/in/mikinamsrai
+<p align="center">
+  <a href="https://github.com/Faichyer?tab=repositories"><img src="./assets/timeline.svg" width="100%" alt="Archive timeline: Pong-en-C-Sharp (C#, 2016), Melyr (Dart, 2020), spotify-react (TypeScript, 2020), Motdle (TypeScript, 2023)" /></a>
+</p>

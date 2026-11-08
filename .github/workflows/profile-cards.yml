@@ -1,0 +1,32 @@
+# Rebuilds the README's live cards (stats, contribution grid, vitals monitor) and publishes them to the `output` branch.
+name: profile-cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: ["tools/cards.py", ".github/workflows/profile-cards.yml"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stats, contribution grid and vitals
+        run: python3 tools/cards.py --user "${{ github.repository_owner }}" --out dist
+        env:
+          # Optional: add a CARDS_TOKEN secret (classic PAT, read:user) to count everything GITHUB_TOKEN can't see.
+          GITHUB_TOKEN: ${{ secrets.CARDS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
